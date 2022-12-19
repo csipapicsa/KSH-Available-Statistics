@@ -1,0 +1,92 @@
+21.1.1.72. A nemzetgazdaság integrált számlái, 2016 [millió Ft];;;;;;;;;;;;;;;;;;;;;
+Kód;Gazdasági mûveletek és egyenlegezõ tételek;Összesen S.1+S.2 FELHASZNÁLÁS;Termékek és szolgáltatások (forrás) S.1+S.2 FELHASZNÁLÁS;Külföld S.2 FELHASZNÁLÁS;Nemzetgazdaság összesen S.1 FELHASZNÁLÁS;Háztartásokat segítõ nonprofit intézmények S.15 FELHASZNÁLÁS;Háztartások S.14 FELHASZNÁLÁS;Kormányzat S.13 FELHASZNÁLÁS;Pénzügyi vállalatok S.12 FELHASZNÁLÁS;Nem pénzügyi vállalatok S.11 FELHASZNÁLÁS;Képzett szektor S.1N FELHASZNÁLÁS;Képzett szektor S.1N FORRÁS;Nem pénzügyi vállalatok S.11 FORRÁS;Pénzügyi vállalatok S.12 FORRÁS;Kormányzat S.13 FORRÁS;Háztartások S.14 FORRÁS;Háztartásokat segítõ nonprofit intézmények S.15 FORRÁS;Nemzetgazdaság összesen S.1 FORRÁS;Külföld S.2 FORRÁS;Termékek és szolgáltatások (felhasználás) S.2 FORRÁS;Összesen S.1+S.2 FORRÁS
+I. Termelési számla / Termékek és szolgáltatások külföld számlája ;;;;;;;;;;;;;;;;;;;;;
+P.7;Termékek és szolgáltatások importja;28 240 906;28 240 906;;;;;;;;;;;;;;;;28 240 906;;28 240 906
+P.71;Termékek importja;23 335 642;23 335 642;;;;;;;;;;;;;;;;23 335 642;;23 335 642
+P.72;Szolgáltatások importja;4 905 264;4 905 264;;;;;;;;;;;;;;;;4 905 264;;4 905 264
+P.6;Termékek és szolgáltatások exportja;31 284 275;;31 284 275;;;;;;;;;;;;;;;;31 284 275;31 284 275
+P.61;Termékek exportja;24 471 247;;24 471 247;;;;;;;;;;;;;;;;24 471 247;24 471 247
+P.62;Szolgáltatások exportja;6 813 028;;6 813 028;;;;;;;;;;;;;;;;6 813 028;6 813 028
+P.1;Kibocsátás;71 561 520;71 561 520;;;;;;;;;;53 568 131;1 906 247;7 861 987;7 455 064;770 091;71 561 520;;;71 561 520
+P.11;Piaci kibocsátás;59 475 433;59 475 433;;;;;;;;;;52 732 359;1 895 834;21 604;4 825 636;;59 475 433;;;59 475 433
+P.12;Saját végsõ felhasználási célú kibocsátás;3 610 177;3 610 177;;;;;;;;;;835 772;10 413;129 507;2 629 428;5 057;3 610 177;;;3 610 177
+P.13;Nem piaci kibocsátás;8 475 910;8 475 910;;;;;;;;;;;;7 710 876;;765 034;8 475 910;;;8 475 910
+P.2;Folyó termelõfelhasználás;40 847 159;;;40 847 159;387 439;2 079 364;2 706 324;896 964;34 777 068;;;;;;;;;;40 847 159;40 847 159
+D.21–D.31;Termékadók és -támogatások egyenlege;5 492 305;5 492 305;;;;;;;;;5 492 305;;;;;;5 492 305;;;5 492 305
+B.1g;"Hozzáadott érték, bruttó
+(Bruttó hazai termék, GDP)";36 206 666;;;36 206 666;382 652;5 375 700;5 155 663;1 009 283;18 791 063;5 492 305;;;;;;;;;;
+P.51c;Állóeszköz-felhasználás;5 992 218;;;5 992 218;82 394;970 931;1 276 762;108 823;3 553 308;;;;;;;;;;;
+B.1n;"Hozzáadott érték, nettó
+(Nettó hazai termék, NDP)";30 214 448;;;30 214 448;300 258;4 404 769;3 878 901;900 460;15 237 755;5 492 305;;;;;;;;;;
+B.11;Külkereskedelmi egyenleg;-3 043 369;;-3 043 369;;;;;;;;;;;;;;;;;
+II.1.1. Jövedelmek keletkezése számla;;;;;;;;;;;;;;;;;;;;;
+B.1g;"Hozzáadott érték, bruttó
+(Bruttó hazai termék, GDP)";;;;;;;;;;;5 492 305;18 791 063;1 009 283;5 155 663;5 375 700;382 652;36 206 666;;;36 206 666
+B.1n;"Hozzáadott érték, nettó
+(Nettó hazai termék, NDP)";;;;;;;;;;;5 492 305;15 237 755;900 460;3 878 901;4 404 769;300 258;30 214 448;;;30 214 448
+B.11;Külkereskedelmi egyenleg;;;;;;;;;;;;;;;;;;-3 043 369;;-3 043 369
+D.1;Munkavállalói jövedelem;15 503 985;;;15 503 985;341 949;596 998;3 894 294;567 870;10 102 874;;;;;;;;;;;
+D.11;Bérek és keresetek;12 387 162;;;12 387 162;275 007;538 094;3 067 637;443 577;8 062 847;;;;;;;;;;;
+D.12;Munkaadók társadalombiztosítási hozzájárulásai;3 116 823;;;3 116 823;66 942;58 904;826 657;124 293;2 040 027;;;;;;;;;;;
+D.2–D.3;Termelési és importadók és -támogatások egyenlege;5 417 375;;;5 417 375;-41 691;-157 178;-15 393;100 196;39 136;5 492 305;;;;;;;;;;
+D.21;Termékadók ;5 891 229;;;5 891 229;;;;;;5 891 229;;;;;;;;;;
+D.29;Egyéb termelési adók;690 676;;;690 676;533;99 194;25 592;101 714;463 643;;;;;;;;;;;
+D.31;Terméktámogatások;398 924;;;398 924;;;;;;398 924;;;;;;;;;;
+D.39;Egyéb termelési támogatások;765 606;;;765 606;42 224;256 372;40 985;1 518;424 507;;;;;;;;;;;
+B.2g;Mûködési eredmény, bruttó;12 182 876;;;12 182 876;82 394;1 833 450;1 276 762;341 217;8 649 053;0;;;;;;;;;;
+B.2n;Mûködési eredmény, nettó;6 519 837;;;6 519 837;0;1 191 698;0;232 394;5 095 745;0;;;;;;;;;;
+B.3g;Vegyes jövedelem, bruttó;3 102 430;;;3 102 430;;3 102 430;;;;;;;;;;;;;;
+B.3n;Vegyes jövedelem, nettó;2 773 251;;;2 773 251;;2 773 251;;;;;;;;;;;;;;
+II.1.2. Elsõdleges jövedelmek elosztása számla ;;;;;;;;;;;;;;;;;;;;;
+B.2g;Mûködési eredmény, bruttó;;;;;;;;;;;0;8 649 053;341 217;1 276 762;1 833 450;82 394;12 182 876;;;12 182 876
+B.2n;Mûködési eredmény, nettó;;;;;;;;;;;0;5 095 745;232 394;0;1 191 698;0;6 519 837;;;6 519 837
+B.3g;Vegyes jövedelem, bruttó;;;;;;;;;;;;;;;3 102 430;;3 102 430;;;3 102 430
+B.3n;Vegyes jövedelem, nettó;;;;;;;;;;;;;;;2 773 251;;2 773 251;;;2 773 251
+D.1;Munkavállalói jövedelem;1 069 763;;1 069 763;;;;;;;;;;;;16 383 214;;16 383 214;190 534;;16 573 748
+D.11;Bérek és keresetek;922 054;;922 054;;;;;;;;;;;;13 139 623;;13 139 623;169 593;;13 309 216
+D.12;Munkaadók társadalombiztosítási hozzájárulásai;147 709;;147 709;;;;;;;;;;;;3 243 591;;3 243 591;20 941;;3 264 532
+D.2–D.3;Termelési és importadók és -támogatások egyenlege;;;;;;;;;;;;;;5 793 827;;;5 793 827;-376 452;;5 417 375
+D.21–D.31;Termékadók és -támogatások egyenlege;;;;;;;;;;;;;;5 512 466;;;5 512 466;-20 161;;5 492 305
+D.29–D.39;Egyéb termelési adók és -támogatások egyenlege;;;;;;;;;;;;;;281 361;;;281 361;-356 291;;-74 930
+D.4;Tulajdonosi jövedelem;12 237 402;;2 590 286;9 647 116;466;122 883;1 118 059;2 615 801;5 789 907;;;3 131 373;2 792 661;173 812;1 308 644;8 422;7 414 912;4 822 490;;12 237 402
+B.5g;Elsõdleges jövedelmek egyenlege, bruttó (Bruttó nemzeti jövedelem, GNI);35 230 143;;;35 230 143;90 350;22 504 855;6 126 342;518 077;5 990 519;0;;;;;;;;;;
+B.5n;Elsõdleges jövedelmek egyenlege, nettó (Nettó nemzeti jövedelem, NNI);29 237 925;;;29 237 925;7 956;21 533 924;4 849 580;409 254;2 437 211;0;;;;;;;;;;
+II.2. Jövedelmek másodlagos elosztása számla;;;;;;;;;;;;;;;;;;;;;
+B.5g;Elsõdleges jövedelmek egyenlege, bruttó (Bruttó nemzeti jövedelem, GNI);;;;;;;;;;;0;5 990 519;518 077;6 126 342;22 504 855;90 350;35 230 143;;;35 230 143
+B.5n;Elsõdleges jövedelmek egyenlege, nettó (Nettó nemzeti jövedelem, NNI);;;;;;;;;;;0;2 437 211;409 254;4 849 580;21 533 924;7 956;29 237 925;;;29 237 925
+D.5;Folyó jövedelem-  és vagyonadók;2 836 373;;11 174;2 825 199;;1 992 548;3 181;121 402;708 068;;;;;2 616 913;;;2 616 913;219 460;;2 836 373
+D.61;Nettó társadalombiztosítási hozzájárulások;5 504 979;;34 722;5 470 257;;5 470 257;;;;;;35 594;222 624;4 973 683;;0;5 231 901;273 078;;5 504 979
+D.62;Pénzbeni társadalmi juttatások;4 754 916;;41 761;4 713 155;17 567;;4 531 911;127 580;36 097;;;;;;4 738 105;;4 738 105;16 811;;4 754 916
+D.7 ;Egyéb folyó jövedelemátutalások;2 979 259;;375 705;2 603 554;36 827;550 217;1 253 549;285 323;477 638;;;539 186;284 427;454 895;480 685;711 889;2 471 082;508 177;;2 979 259
+B.6g;Rendelkezésre álló jövedelem, bruttó;34 675 979;;;34 675 979;747 845;19 710 623;8 383 192;490 823;5 343 496;0;;;;;;;;;;
+B.6n;Rendelkezésre álló jövedelem, nettó;28 683 761;;;28 683 761;665 451;18 739 692;7 106 430;382 000;1 790 188;0;;;;;;;;;;
+II.3. Természetbeni jövedelmek újraelosztása számla ;;;;;;;;;;;;;;;;;;;;;
+B.6g;Rendelkezésre álló jövedelem, bruttó;;;;;;;;;;;0;5 343 496;490 823;8 383 192;19 710 623;747 845;34 675 979;;;34 675 979
+B.6n;Rendelkezésre álló jövedelem, nettó;;;;;;;;;;;0;1 790 188;382 000;7 106 430;18 739 692;665 451;28 683 761;;;28 683 761
+D.63;Természetbeni társadalmi juttatások;4 119 734;;;4 119 734;623 369;;3 496 365;;;;;;;;4 119 734;;4 119 734;;;4 119 734
+B.7g;Korrigált rendelkezésre álló jövedelem, bruttó;34 675 979;;;34 675 979;124 476;23 830 357;4 886 827;490 823;5 343 496;0;;;;;;;;;;
+B.7n;Korrigált rendelkezésre álló jövedelem, nettó;28 683 761;;;28 683 761;42 082;22 859 426;3 610 065;382 000;1 790 188;0;;;;;;;;;;
+II.4. Jövedelmek felhasználása számla;;;;;;;;;;;;;;;;;;;;;
+B.6g;Rendelkezésre álló jövedelem, bruttó;;;;;;;;;;;0;5 343 496;490 823;8 383 192;19 710 623;747 845;34 675 979;;;34 675 979
+B.6n;Rendelkezésre álló jövedelem, nettó;;;;;;;;;;;0;1 790 188;382 000;7 106 430;18 739 692;665 451;28 683 761;;;28 683 761
+P.4;Végsõ fogyasztás;25 361 281;;;25 361 281;;21 630 395;3 730 886;;;;;;;;;;;;25 361 281;25 361 281
+P.3;Végsõ fogyasztási kiadások;25 361 281;;;25 361 281;623 369;17 510 661;7 227 251;;;;;;;;;;;;25 361 281;25 361 281
+D.8;Nyugdíjjogosultságok változása miatti korrekció;95 044;;;95 044;;;;95 044;;;;;;;95 044;;95 044;;;95 044
+B.8g;Megtakarítások, bruttó;9 314 698;;;9 314 698;124 476;2 295 006;1 155 941;395 779;5 343 496;0;;;;;;;;;;
+B.8n;Megtakarítások, nettó;3 322 480;;;3 322 480;42 082;1 324 075;-120 821;286 956;1 790 188;0;;;;;;;;;;
+B.12;Folyó külsõ egyenleg;-1 512 682;;-1 512 682;;;;;;;;;;;;;;;;;
+;;ESZKÖZÖK VÁLTOZÁSA;;;;;;;;;;KÖTELEZETTSÉGEK ÉS A NETTÓ VAGYON VÁLTOZÁSA;;;;;;;;;
+III.1. Tõkeszámla;;;;;;;;;;;;;;;;;;;;;
+B.8g;Megtakarítások, bruttó;;;;;;;;;;;0;5 343 496;395 779;1 155 941;2 295 006;124 476;9 314 698;;;9 314 698
+B.8n;Megtakarítások, nettó;;;;;;;;;;;0;1 790 188;286 956;-120 821;1 324 075;42 082;3 322 480;;;3 322 480
+B.12;Folyó külsõ egyenleg;;;;;;;;;;;;;;;;;;-1 512 682;;-1 512 682
+P.51g;Állóeszköz-felhalmozás, bruttó;7 058 418;;;7 058 418;94 211;1 110 641;1 142 605;111 020;4 599 941;;;;;;;;;;7 058 418;7 058 418
+P.52;Készletváltozás;691 834;;;691 834;;9 249;16 864;;665 721;;;;;;;;;;691 834;691 834
+P.53;Értéktárgyak beszerzésének és eladásának egyenlege;51 764;;;51 764;37;30 784;205;..;20 738;;;;;;;;;;51 764;51 764
+P.51c;Állóeszköz-felhasználás;-5 992 218;;;-5 992 218;-82 394;-970 931;-1 276 762;-108 823;-3 553 308;;;;;;;;;;;
+NP;Nem termelt eszközök beszerzésének és eladásának egyenlege;;;-96 770;96 770;;105 496;-105 496;243;96 527;;;;;;;;;;;
+D.9;Kapott tõketranszfer  (+);;;;;;;;;;;;521 517;17 501;214 510;143 893;292 838;1 190 259;212 018;;1 402 277
+D.9;Adott tõketranszfer (–);;;;;;;;;;;;34 960;14 317;966 853;24 793;54 907;1 095 830;306 447;;1 402 277
+B.9;Nettó hitelnyújtás(+) vagy Nettó hitelfelvét(–);0;;-1 510 341;1 510 341;268 159;1 157 936;-650 580;287 700;447 126;0;;;;;;;;;;
+III.2. Pénzügyi számla;;;;;;;;;;;;;;;;;;;;;
+B.9;Nettó finanszírozási képesség (+) vagy Nettó finanszírozási igény (–);;;;;;;;;;;;-313 507;23 624;-608 544;1 728 295;260 755;1 090 623;-1 090 623;;0
